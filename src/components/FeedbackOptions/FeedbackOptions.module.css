@@ -1,0 +1,7 @@
+.container button {
+  margin-right: 5px;
+  border: 1px solid black;
+  border-radius: 3px;
+  background-color: rgba(37, 109, 218, 0.644);
+  cursor: pointer;
+}
