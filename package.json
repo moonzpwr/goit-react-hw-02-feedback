@@ -39,9 +39,5 @@
       "last 1 safari version"
     ]
   },
-  "devDependencies": {
-    "husky": "^4.3.7",
-    "lint-staged": "^10.5.3",
-    "prettier": "^2.2.1"
-  }
+  "devDependencies": {}
 }
